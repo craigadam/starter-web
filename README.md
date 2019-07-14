@@ -14,6 +14,7 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 contribute like this 
+some new info 
 
 ##	Copyright
 
