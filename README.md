@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 
 contribute like this 
 
+##	Copyright
+
+a notice
