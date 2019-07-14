@@ -3,6 +3,7 @@
 working dir
 This repository is for showing how Git and GitHub work
 a line to show rebase example
+then more changes for renase 2
 ## Introduction
 
 An intro 
