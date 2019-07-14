@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-Pushed all way to remote
+commmited to local
 This repository is for showing how Git and GitHub work
 
 ## Introduction
