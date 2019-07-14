@@ -19,4 +19,4 @@ some new info
 
 ##	Copyright
 
-a notice
+a notice. All rights reserved
