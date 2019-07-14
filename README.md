@@ -1,8 +1,7 @@
 # Starter Web Repo
 
+Pushed all way to remote
 This repository is for showing how Git and GitHub work
-more changes
-
 
 ## Introduction
 
