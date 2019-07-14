@@ -2,8 +2,7 @@
 
 working dir
 This repository is for showing how Git and GitHub work
-add line to show rebase
-
+a line to show rebase example
 ## Introduction
 
 An intro 
